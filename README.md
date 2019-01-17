@@ -1,5 +1,5 @@
 # cakephp3-starter
-cakephp3-starter skeleton
+cakephp3.7.2-starter skeleton (RESTful API)
 
 ## Installation
 
